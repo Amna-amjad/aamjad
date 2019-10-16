@@ -1,0 +1,1 @@
+/home/usama/Desktop/rust\ libraries/aamjad/amna_loops/target/package/amna_loops-0.1.0/target/debug/libamna_loops.rlib: /home/usama/Desktop/rust\ libraries/aamjad/amna_loops/target/package/amna_loops-0.1.0/src/lib.rs
