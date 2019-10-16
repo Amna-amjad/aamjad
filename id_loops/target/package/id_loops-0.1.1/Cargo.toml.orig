@@ -1,11 +1,10 @@
 [package]
-name = "amna_loops"
+name = "id_loops"
 version = "0.1.1"
 authors = ["Amna <amnakhan8685@gmail.com>"]
 edition = "2018"
 description = "my first project"
 license = "MIT"
-
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
